@@ -1,4 +1,4 @@
 # SOUMAIS
 
-[![Build Status](https://travis-ci.org/galdevtech/soumais.svg?branch=master)](https://travis-ci.org/galdevtech/soumais)
+[![Build Status](https://travis-ci.org/galdevs/soumais.svg?branch=master)](https://travis-ci.org/galdevs/soumais)
 
